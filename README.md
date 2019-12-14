@@ -53,7 +53,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts_furuhashi/20181115_29.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyug.github.io/yunishikawa/20191214_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
  
