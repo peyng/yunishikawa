@@ -224,8 +224,7 @@ https://peyng.github.io/yunishikawa/<br>
 
 お手元の写真を共有いただければ、HPに追加しますので、ご連絡下さい。<br>
 
-羽田<br></span>
-</main>
+羽田<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
