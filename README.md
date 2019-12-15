@@ -167,7 +167,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 
 
 <a href="20191214_002.JPG" data-lightbox="abc"><img src="20191214_002.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20191214_003.JPG" data-lightbox="abc"><img src="20191214_003.JPG" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20191214_004.JPG" data-lightbox="abc"><img src="20191214_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_005.JPG" data-lightbox="abc"><img src="20191214_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_006.JPG" data-lightbox="abc"><img src="20191214_006.JPG" alt="サンプル画像" width="900" /></a>
