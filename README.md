@@ -72,17 +72,17 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-	
+<!--
 <h1><span class="blue"><strong>簡易、支払い＆精算計算</strong></span></h1>
 
 
-        
+<!--
 <section>
-
+<!--
 <ul>
 <li> <input type="button" id="btn1" value="精算計算  " onclick="btn1Click();" /> 　←　支払い＆精算計算、開始ボタン</li>
 </ul>
-    
+<!--
 <script>  
 //ボタン１をクリックした時の処理
 function btn1Click(){ 
@@ -92,73 +92,70 @@ function btn1Click(){
     var selectss = prompt('支払った人の人数を入力！');
 
     var koukin = prompt('繰り越し金額を入力！');
-    
+<!--    
 var nama = [];
     for (var i=0; i<selectss; i++){
       nama[i] = prompt("支払った人の名前を入力");
     }   
-
+<!--
 var menu = [];    
     for (var i=0; i<selectss; i++){
       menu[i] = prompt(nama[i] + "さんの支払金額を入力");
     } 
-
+<!--
 document.write("各自の支払金額は<br>")
     for (var i=0; i<menu.length; i++){
       document.write(nama[i] + "さん：" + menu[i] + "円 <br>")
     }
-    
+<!--    
 //各自の会計額を計算
-    
+<!--    
 var kasann = [];
       kasann[0] = menu[0];
     for (var i=0; i<selectss-1; i++){
 kasann[i+1] = Math.round (Number(kasann[i]) + Number(menu[i+1]));
       }
-    
+ <!--   
 var kasan = Math.round (Number(kasann[i]) - Number(koukin))
-      
+ <!--     
 //各自の分担分を計算
-
+<!--
 var buntan = Math.round (Number(kasan)/Number(selects));
-
+<!--
 //各自の割り勘分を計算
-
+<!--
 var wari = [];
     for (var i=0; i<selects; i++){
     wari[i] = Math.round (Number(menu[i]) - Number(buntan));
       }
-
+<!--
 var kasann = kasann[selectss-1]
-    
+  <!--  
 document.write("<br>経費の総額：" + kasann + "円<br>")
-      
+  <!--    
 document.write("公金補助額：" + koukin + "円<br>")
-
+<!--
 document.write("精算金額の総額：" + kasan + "円<br>")
-      
+ <!--     
 document.write("一人当たりの分担：" + buntan + "円<br>")
-
+<!--
 document.write("<br>支払った人への払い戻し金額は<br>")
     for (var i=0; i<menu.length; i++){
       document.write(nama[i] + "さん：" + wari[i] + "円 <br>")
     }
-
+<!--
 document.write ("<br>以上、お帰りも気を付けて、次回も元気に再会～(^^)/"); 
     
         document.bgColor = "#00ff80";
         document.fgColor = "blue";
-    
+ <!--   
 }
 
     </script>
     
-        </section>
+        </section>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!-- フッタ -->
- <footer>
- Copyright 2019/12/03 S.Hada
- </footer>
+
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年12月14日(土)〜１５日（日）　!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -166,7 +163,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 
-<h4><span class="white">とりあえず、画像を手当たり次第アップしました〜〜(^_^)v。</span></h4><br>
+<h2><span class="white">とりあえず、画像を手当たり次第アップしました〜〜(^_^)v。</span></h2><br>
 
 
 <a href="20191214_002.JPG" data-lightbox="abc"><img src="20191214_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -204,12 +201,12 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20191214_034.JPG" data-lightbox="abc"><img src="20191214_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_035.JPG" data-lightbox="abc"><img src="20191214_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_036.JPG" data-lightbox="abc"><img src="20191214_036.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">石川さんお勧めの酒屋さんで、ドブロクを買いました。。</span></h4><br>
+<h2><span class="white">石川さんお勧めの酒屋さんで、ドブロクを買いました。。</span></h2><br>
 <a href="20191214_021.JPG" data-lightbox="abc"><img src="20191214_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_038.JPG" data-lightbox="abc"><img src="20191214_038.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">道の駅で見つけた、ダムカレー。</span></h4><br>
+<h2><span class="white">道の駅で見つけた、ダムカレー。</span></h2><br>
 <a href="20191214_022.JPG" data-lightbox="abc"><img src="20191214_022.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">今回のホテル。</span></h4><br>
+<h2><span class="white">今回のホテル。</span></h2><br>
 <a href="20191214_001.JPG" data-lightbox="abc"><img src="20191214_001.JPG" alt="サンプル画像" width="900" /></a>
 
 
