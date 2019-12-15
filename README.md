@@ -157,7 +157,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年12月14日(土)〜15日(日)@ホテル湯西川　!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年12月14日(土)〜15日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
