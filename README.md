@@ -53,7 +53,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/yunishikawa/20191214_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/yunishikawa/20191214_020.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
  
@@ -166,9 +166,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 
-<h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。</span></h4><br>
-<h4><span class="white">ここからは加藤さん撮影分。</span></h4><br>
-<a href="20191214_001.JPG" data-lightbox="abc"><img src="20191214_001.JPG" alt="サンプル画像" width="900" /></a>
+<h4><span class="white">とりあえず、画像を手当たり次第アップしました〜〜(^_^)v。</span></h4><br>
+
+
 <a href="20191214_002.JPG" data-lightbox="abc"><img src="20191214_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_003.JPG" data-lightbox="abc"><img src="20191214_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_004.JPG" data-lightbox="abc"><img src="20191214_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -178,9 +178,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20191214_008.JPG" data-lightbox="abc"><img src="20191214_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_009.JPG" data-lightbox="abc"><img src="20191214_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_010.JPG" data-lightbox="abc"><img src="20191214_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191214_011.JPG" data-lightbox="abc"><img src="20191214_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191214_012.JPG" data-lightbox="abc"><img src="20191214_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191214_013.JPG" data-lightbox="abc"><img src="20191214_013.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20191214_014.JPG" data-lightbox="abc"><img src="20191214_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_015.JPG" data-lightbox="abc"><img src="20191214_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_016.JPG" data-lightbox="abc"><img src="20191214_016.JPG" alt="サンプル画像" width="900" /></a>
@@ -188,11 +186,13 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20191214_018.JPG" data-lightbox="abc"><img src="20191214_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_019.JPG" data-lightbox="abc"><img src="20191214_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_020.JPG" data-lightbox="abc"><img src="20191214_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191214_021.JPG" data-lightbox="abc"><img src="20191214_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20191214_022.JPG" data-lightbox="abc"><img src="20191214_022.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20191214_023.JPG" data-lightbox="abc"><img src="20191214_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_024.JPG" data-lightbox="abc"><img src="20191214_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_025.JPG" data-lightbox="abc"><img src="20191214_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_011.JPG" data-lightbox="abc"><img src="20191214_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_012.JPG" data-lightbox="abc"><img src="20191214_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_013.JPG" data-lightbox="abc"><img src="20191214_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_026.JPG" data-lightbox="abc"><img src="20191214_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_027.JPG" data-lightbox="abc"><img src="20191214_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_028.JPG" data-lightbox="abc"><img src="20191214_028.JPG" alt="サンプル画像" width="900" /></a>
@@ -204,9 +204,13 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20191214_034.JPG" data-lightbox="abc"><img src="20191214_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_035.JPG" data-lightbox="abc"><img src="20191214_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_036.JPG" data-lightbox="abc"><img src="20191214_036.JPG" alt="サンプル画像" width="900" /></a>
-
+<h4><span class="white">石川さんお勧めの酒屋さんで、ドブロクを買いました。。</span></h4><br>
+<a href="20191214_021.JPG" data-lightbox="abc"><img src="20191214_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191214_038.JPG" data-lightbox="abc"><img src="20191214_038.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">ここからは雅代さん撮影分。</span></h4><br>
+<h4><span class="white">道の駅で見つけた、ダムカレー。</span></h4><br>
+<a href="20191214_022.JPG" data-lightbox="abc"><img src="20191214_022.JPG" alt="サンプル画像" width="900" /></a>
+<h4><span class="white">今回のホテル。</span></h4><br>
+<a href="20191214_001.JPG" data-lightbox="abc"><img src="20191214_001.JPG" alt="サンプル画像" width="900" /></a>
 
 
 </div>
