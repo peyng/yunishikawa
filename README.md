@@ -222,7 +222,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 
 手持ちの写真でHPを暫定構成してみました。<br>
 
-https://peyng.github.io/yunishikawa/<br>
+<p align="left"> <img src="QR_yunishikawa.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 お手元の写真を共有いただければ、HPに追加しますので、ご連絡下さい。<br>
 
