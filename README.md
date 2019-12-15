@@ -165,70 +165,49 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20181115_02.JPG" data-lightbox="abc"><img src="20181115_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_03.JPG" data-lightbox="abc"><img src="20181115_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_04.JPG" data-lightbox="abc"><img src="20181115_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_05.JPG" data-lightbox="abc"><img src="20181115_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_06.JPG" data-lightbox="abc"><img src="20181115_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_07.JPG" data-lightbox="abc"><img src="20181115_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_08.JPG" data-lightbox="abc"><img src="20181115_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_09.JPG" data-lightbox="abc"><img src="20181115_09.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_10.JPG" data-lightbox="abc"><img src="20181115_10.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_11.JPG" data-lightbox="abc"><img src="20181115_11.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_12.JPG" data-lightbox="abc"><img src="20181115_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_13.JPG" data-lightbox="abc"><img src="20181115_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_14.JPG" data-lightbox="abc"><img src="20181115_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_15.JPG" data-lightbox="abc"><img src="20181115_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_16.JPG" data-lightbox="abc"><img src="20181115_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_17.JPG" data-lightbox="abc"><img src="20181115_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_18.JPG" data-lightbox="abc"><img src="20181115_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_19.JPG" data-lightbox="abc"><img src="20181115_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_20.JPG" data-lightbox="abc"><img src="20181115_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_21.JPG" data-lightbox="abc"><img src="20181115_21.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_22.JPG" data-lightbox="abc"><img src="20181115_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_23.JPG" data-lightbox="abc"><img src="20181115_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_24.JPG" data-lightbox="abc"><img src="20181115_24.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_25.JPG" data-lightbox="abc"><img src="20181115_25.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_26.JPG" data-lightbox="abc"><img src="20181115_26.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_27.JPG" data-lightbox="abc"><img src="20181115_27.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_28.JPG" data-lightbox="abc"><img src="20181115_28.JPG" alt="サンプル画像" width="360" /></a>
-<a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="540" /></a>
-<a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
-<a href="20181115_31.JPG" data-lightbox="abc"><img src="20181115_31.JPG" alt="サンプル画像" width="90" /></a>
+
 <h4><span class="white">↑パノラマ・マジックで、少し歪んじゃった人が居たりしますが、ご愛敬〜〜(^_^)v。</span></h4><br>
 <h4><span class="white">ここからは加藤さん撮影分。</span></h4><br>
-<a href="20181115_32.JPG" data-lightbox="abc"><img src="20181115_32.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_33.JPG" data-lightbox="abc"><img src="20181115_33.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_34.JPG" data-lightbox="abc"><img src="20181115_34.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_35.JPG" data-lightbox="abc"><img src="20181115_35.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_36.JPG" data-lightbox="abc"><img src="20181115_36.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_37.JPG" data-lightbox="abc"><img src="20181115_37.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_38.JPG" data-lightbox="abc"><img src="20181115_38.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_39.JPG" data-lightbox="abc"><img src="20181115_39.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_40.JPG" data-lightbox="abc"><img src="20181115_40.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_41.JPG" data-lightbox="abc"><img src="20181115_41.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_42.JPG" data-lightbox="abc"><img src="20181115_42.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_43.JPG" data-lightbox="abc"><img src="20181115_43.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_44.JPG" data-lightbox="abc"><img src="20181115_44.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_45.JPG" data-lightbox="abc"><img src="20181115_45.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_46.JPG" data-lightbox="abc"><img src="20181115_46.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_47.JPG" data-lightbox="abc"><img src="20181115_47.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20191214_001.JPG" data-lightbox="abc"><img src="20191214_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_002.JPG" data-lightbox="abc"><img src="20191214_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_003.JPG" data-lightbox="abc"><img src="20191214_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_004.JPG" data-lightbox="abc"><img src="20191214_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_005.JPG" data-lightbox="abc"><img src="20191214_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_006.JPG" data-lightbox="abc"><img src="20191214_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_007.JPG" data-lightbox="abc"><img src="20191214_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_008.JPG" data-lightbox="abc"><img src="20191214_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_009.JPG" data-lightbox="abc"><img src="20191214_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_010.JPG" data-lightbox="abc"><img src="20191214_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_011.JPG" data-lightbox="abc"><img src="20191214_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_012.JPG" data-lightbox="abc"><img src="20191214_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_013.JPG" data-lightbox="abc"><img src="20191214_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_014.JPG" data-lightbox="abc"><img src="20191214_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_015.JPG" data-lightbox="abc"><img src="20191214_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_016.JPG" data-lightbox="abc"><img src="20191214_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_017.JPG" data-lightbox="abc"><img src="20191214_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_018.JPG" data-lightbox="abc"><img src="20191214_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_019.JPG" data-lightbox="abc"><img src="20191214_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_020.JPG" data-lightbox="abc"><img src="20191214_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_021.JPG" data-lightbox="abc"><img src="20191214_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_022.JPG" data-lightbox="abc"><img src="20191214_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_023.JPG" data-lightbox="abc"><img src="20191214_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_024.JPG" data-lightbox="abc"><img src="20191214_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_025.JPG" data-lightbox="abc"><img src="20191214_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_026.JPG" data-lightbox="abc"><img src="20191214_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_027.JPG" data-lightbox="abc"><img src="20191214_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_028.JPG" data-lightbox="abc"><img src="20191214_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_029.JPG" data-lightbox="abc"><img src="20191214_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_030.JPG" data-lightbox="abc"><img src="20191214_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_031.JPG" data-lightbox="abc"><img src="20191214_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_032.JPG" data-lightbox="abc"><img src="20191214_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_033.JPG" data-lightbox="abc"><img src="20191214_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_034.JPG" data-lightbox="abc"><img src="20191214_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_035.JPG" data-lightbox="abc"><img src="20191214_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191214_036.JPG" data-lightbox="abc"><img src="20191214_036.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="20191214_038.JPG" data-lightbox="abc"><img src="20191214_038.JPG" alt="サンプル画像" width="900" /></a>
 <h4><span class="white">ここからは雅代さん撮影分。</span></h4><br>
-<a href="20181115_48.JPG" data-lightbox="abc"><img src="20181115_48.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_51.JPG" data-lightbox="abc"><img src="20181115_51.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_52.JPG" data-lightbox="abc"><img src="20181115_52.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_53.JPG" data-lightbox="abc"><img src="20181115_53.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_54.JPG" data-lightbox="abc"><img src="20181115_54.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_55.JPG" data-lightbox="abc"><img src="20181115_55.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_59.JPG" data-lightbox="abc"><img src="20181115_59.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_60.JPG" data-lightbox="abc"><img src="20181115_60.JPG" alt="サンプル画像" width="180" /></a>
-<br>
-<a href="20181115_49.JPG" data-lightbox="abc"><img src="20181115_49.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_50.JPG" data-lightbox="abc"><img src="20181115_50.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_56.JPG" data-lightbox="abc"><img src="20181115_56.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_57.JPG" data-lightbox="abc"><img src="20181115_57.JPG" alt="サンプル画像" width="100" /></a>
-<a href="20181115_58.JPG" data-lightbox="abc"><img src="20181115_58.JPG" alt="サンプル画像" width="100" /></a>
+
 
 </div>
 
