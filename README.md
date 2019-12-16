@@ -232,6 +232,11 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20191214_058.JPG" data-lightbox="abc"><img src="20191214_058.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20191214_059.JPG" data-lightbox="abc"><img src="20191214_059.JPG" alt="サンプル画像" width="300" /></a>
 <a href="20191214_060.JPG" data-lightbox="abc"><img src="20191214_060.JPG" alt="サンプル画像" width="300" /></a>
+<h2><span class="white">Facebook上の見逃し画像をさらに追記。</span></h2><br>
+<a href="20191214_061.JPG" data-lightbox="abc"><img src="20191214_061.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20191214_062.JPG" data-lightbox="abc"><img src="20191214_062.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20191214_063.JPG" data-lightbox="abc"><img src="20191214_063.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20191214_064.JPG" data-lightbox="abc"><img src="20191214_064.JPG" alt="サンプル画像" width="300" /></a>
 
 <h2><span class="white">初日夕食、動画リンク</span></h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Akq6nxiSs4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
