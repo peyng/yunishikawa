@@ -156,6 +156,67 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
         </section>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020年12月12日(土)〜13日(日)@ホテル湯西川 !!!</marquee></span></h1>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div>
+
+<a href="20201212_001.jpg" data-lightbox="abc"><img src="20201212_001.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_002.jpg" data-lightbox="abc"><img src="20201212_002.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_003.jpg" data-lightbox="abc"><img src="20201212_003.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_004.jpg" data-lightbox="abc"><img src="20201212_004.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_005.jpg" data-lightbox="abc"><img src="20201212_005.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_006.jpg" data-lightbox="abc"><img src="20201212_006.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_007.jpg" data-lightbox="abc"><img src="20201212_007.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_008.jpg" data-lightbox="abc"><img src="20201212_008.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_009.jpg" data-lightbox="abc"><img src="20201212_009.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_010.jpg" data-lightbox="abc"><img src="20201212_010.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_011.jpg" data-lightbox="abc"><img src="20201212_011.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_012.jpg" data-lightbox="abc"><img src="20201212_012.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_013.jpg" data-lightbox="abc"><img src="20201212_013.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_014.jpg" data-lightbox="abc"><img src="20201212_014.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_015.jpg" data-lightbox="abc"><img src="20201212_015.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_016.jpg" data-lightbox="abc"><img src="20201212_016.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_017.jpg" data-lightbox="abc"><img src="20201212_017.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_018.jpg" data-lightbox="abc"><img src="20201212_018.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_019.jpg" data-lightbox="abc"><img src="20201212_019.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_020.jpg" data-lightbox="abc"><img src="20201212_020.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_021.jpg" data-lightbox="abc"><img src="20201212_021.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_022.jpg" data-lightbox="abc"><img src="20201212_022.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_023.jpg" data-lightbox="abc"><img src="20201212_023.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_024.jpg" data-lightbox="abc"><img src="20201212_024.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_025.jpg" data-lightbox="abc"><img src="20201212_025.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_026.jpg" data-lightbox="abc"><img src="20201212_026.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_027.jpg" data-lightbox="abc"><img src="20201212_027.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_028.jpg" data-lightbox="abc"><img src="20201212_028.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_029.jpg" data-lightbox="abc"><img src="20201212_029.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_030.jpg" data-lightbox="abc"><img src="20201212_030.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_031.jpg" data-lightbox="abc"><img src="20201212_031.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_032.jpg" data-lightbox="abc"><img src="20201212_032.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_033.jpg" data-lightbox="abc"><img src="20201212_033.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_034.jpg" data-lightbox="abc"><img src="20201212_034.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_035.jpg" data-lightbox="abc"><img src="20201212_035.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_036.jpg" data-lightbox="abc"><img src="20201212_036.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_037.jpg" data-lightbox="abc"><img src="20201212_037.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_038.jpg" data-lightbox="abc"><img src="20201212_038.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_039.jpg" data-lightbox="abc"><img src="20201212_039.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_040.jpg" data-lightbox="abc"><img src="20201212_040.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_041.jpg" data-lightbox="abc"><img src="20201212_041.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_042.jpg" data-lightbox="abc"><img src="20201212_042.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_043.jpg" data-lightbox="abc"><img src="20201212_043.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_044.jpg" data-lightbox="abc"><img src="20201212_044.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_045.jpg" data-lightbox="abc"><img src="20201212_045.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_046.jpg" data-lightbox="abc"><img src="20201212_046.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_047.jpg" data-lightbox="abc"><img src="20201212_047.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_048.jpg" data-lightbox="abc"><img src="20201212_048.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_049.jpg" data-lightbox="abc"><img src="20201212_049.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_050.jpg" data-lightbox="abc"><img src="20201212_050.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_051.jpg" data-lightbox="abc"><img src="20201212_051.jpg" alt="サンプル画像" width="200" /></a>
+
+
+</div>
+
+
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年12月14日(土)〜15日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
