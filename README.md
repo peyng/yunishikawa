@@ -53,7 +53,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/yunishikawa/20191214_020.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/yunishikawa/20191212_046.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
  
@@ -166,16 +166,18 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20201212_002.jpg" data-lightbox="abc"><img src="20201212_002.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_003.jpg" data-lightbox="abc"><img src="20201212_003.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_004.jpg" data-lightbox="abc"><img src="20201212_004.jpg" alt="サンプル画像" width="200" /></a>
+		<p>國友さん、彼女の写真を紹介してくれました</p>
 <a href="20201212_005.jpg" data-lightbox="abc"><img src="20201212_005.jpg" alt="サンプル画像" width="200" /></a>
-	<p>國友さん、彼女の写真を紹介してくれました</p>
+
 <a href="20201212_006.jpg" data-lightbox="abc"><img src="20201212_006.jpg" alt="サンプル画像" width="200" /></a>
-	
+	<br>
 <a href="20201212_007.jpg" data-lightbox="abc"><img src="20201212_007.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_008.jpg" data-lightbox="abc"><img src="20201212_008.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_009.jpg" data-lightbox="abc"><img src="20201212_009.jpg" alt="サンプル画像" width="200" /></a>
 <p>部屋からの眺めは、対岸の絶壁</p>
 <a href="20201212_010.jpg" data-lightbox="abc"><img src="20201212_010.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_011.jpg" data-lightbox="abc"><img src="20201212_011.jpg" alt="サンプル画像" width="200" /></a>
+<br>
 <a href="20201212_012.jpg" data-lightbox="abc"><img src="20201212_012.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_013.jpg" data-lightbox="abc"><img src="20201212_013.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_014.jpg" data-lightbox="abc"><img src="20201212_014.jpg" alt="サンプル画像" width="200" /></a>
@@ -214,6 +216,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20201212_047.jpg" data-lightbox="abc"><img src="20201212_047.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_048.jpg" data-lightbox="abc"><img src="20201212_048.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_051.jpg" data-lightbox="abc"><img src="20201212_051.jpg" alt="サンプル画像" width="200" /></a>
+<p>馬頭では見事な虹がお出迎え</p>
 <a href="20201212_049.jpg" data-lightbox="abc"><img src="20201212_049.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_050.jpg" data-lightbox="abc"><img src="20201212_050.jpg" alt="サンプル画像" width="800" /></a>
 
@@ -222,10 +225,10 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 </div>
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年12月14日(土)〜15日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 
