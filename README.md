@@ -53,7 +53,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/yunishikawa/20191212_046.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/yunishikawa/20201212_046.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
  
@@ -181,7 +181,8 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20201212_012.jpg" data-lightbox="abc"><img src="20201212_012.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_013.jpg" data-lightbox="abc"><img src="20201212_013.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_014.jpg" data-lightbox="abc"><img src="20201212_014.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20201212_015.jpg" data-lightbox="abc"><img src="20201212_015.jpg" alt="サンプル画像" width="200" /></a>
+<br>
+<a href="20201212_015.jpg" data-lightbox="abc"><img src="20201212_015.jpg" alt="サンプル画像" width="1000" /></a>
 <a href="20201212_016.jpg" data-lightbox="abc"><img src="20201212_016.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_017.jpg" data-lightbox="abc"><img src="20201212_017.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_018.jpg" data-lightbox="abc"><img src="20201212_018.jpg" alt="サンプル画像" width="200" /></a>
