@@ -160,16 +160,20 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
-
-<a href="20201212_001.jpg" data-lightbox="abc"><img src="20201212_001.jpg" alt="サンプル画像" width="200" /></a>
+	<p>今年は國友宅集合でまずは氏家のすぎのやに向けて出発</p>
+<a href="20201212_001.jpg" data-lightbox="abc"><img src="20201212_001.jpg" alt="サンプル画像" width="800" /></a>
+	<p>國友宅のマニアックな品々、サンルームドアの自動開閉機構、他</p>
 <a href="20201212_002.jpg" data-lightbox="abc"><img src="20201212_002.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_003.jpg" data-lightbox="abc"><img src="20201212_003.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_004.jpg" data-lightbox="abc"><img src="20201212_004.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_005.jpg" data-lightbox="abc"><img src="20201212_005.jpg" alt="サンプル画像" width="200" /></a>
+	<p>國友さん、彼女の写真を紹介してくれました</p>
 <a href="20201212_006.jpg" data-lightbox="abc"><img src="20201212_006.jpg" alt="サンプル画像" width="200" /></a>
+	
 <a href="20201212_007.jpg" data-lightbox="abc"><img src="20201212_007.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_008.jpg" data-lightbox="abc"><img src="20201212_008.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_009.jpg" data-lightbox="abc"><img src="20201212_009.jpg" alt="サンプル画像" width="200" /></a>
+<p>部屋からの眺めは、対岸の絶壁</p>
 <a href="20201212_010.jpg" data-lightbox="abc"><img src="20201212_010.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_011.jpg" data-lightbox="abc"><img src="20201212_011.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_012.jpg" data-lightbox="abc"><img src="20201212_012.jpg" alt="サンプル画像" width="200" /></a>
@@ -209,9 +213,10 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20201212_046.jpg" data-lightbox="abc"><img src="20201212_046.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_047.jpg" data-lightbox="abc"><img src="20201212_047.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_048.jpg" data-lightbox="abc"><img src="20201212_048.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20201212_049.jpg" data-lightbox="abc"><img src="20201212_049.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20201212_050.jpg" data-lightbox="abc"><img src="20201212_050.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_051.jpg" data-lightbox="abc"><img src="20201212_051.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_049.jpg" data-lightbox="abc"><img src="20201212_049.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_050.jpg" data-lightbox="abc"><img src="20201212_050.jpg" alt="サンプル画像" width="800" /></a>
+
 
 
 </div>
