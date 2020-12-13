@@ -173,7 +173,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 	<br>
 	<p>國友宅を出発して、氏家のすぎのやで、佐々木さんを交えて昼食</p>
 <a href="20201212_053.jpg" data-lightbox="abc"><img src="20201212_053.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20201212_052.jpg" data-lightbox="abc"><img src="20201212_052.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_052.jpg" data-lightbox="abc"><img src="20201212_052.jpg" alt="サンプル画像" width="800" /></a>
 <br><p>氏家駅で吉村号に乗り換えて、湯西川に向かいます</p>
 <a href="20201212_007.jpg" data-lightbox="abc"><img src="20201212_007.jpg" alt="サンプル画像" width="200" /></a>
 <br><p>ホテルフロントでは、なぜか受付に時間がかかりました</p>
