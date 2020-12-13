@@ -172,14 +172,15 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20201212_006.jpg" data-lightbox="abc"><img src="20201212_006.jpg" alt="サンプル画像" width="200" /></a>
 	<br>
 	<p>國友宅を出発して、氏家のすぎのやで、佐々木さんを交えて昼食</p>
-<a href="20201212_052.jpg" data-lightbox="abc"><img src="20201212_052.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_053.jpg" data-lightbox="abc"><img src="20201212_053.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_052.jpg" data-lightbox="abc"><img src="20201212_052.jpg" alt="サンプル画像" width="200" /></a>
 <br><p>氏家駅で吉村号に乗り換えて、湯西川に向かいます</p>
 <a href="20201212_007.jpg" data-lightbox="abc"><img src="20201212_007.jpg" alt="サンプル画像" width="200" /></a>
+<br><p>ホテルフロントでは、なぜか受付に時間がかかりました</p>
 <a href="20201212_008.jpg" data-lightbox="abc"><img src="20201212_008.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20201212_009.jpg" data-lightbox="abc"><img src="20201212_009.jpg" alt="サンプル画像" width="200" /></a>
 <p>部屋からの眺めは、対岸の絶壁</p>
-<a href="20201212_010.jpg" data-lightbox="abc"><img src="20201212_010.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20201212_010.jpg" data-lightbox="abc"><img src="20201212_010.jpg" alt="サンプル画像" width="800" /></a>
 <a href="20201212_011.jpg" data-lightbox="abc"><img src="20201212_011.jpg" alt="サンプル画像" width="200" /></a>
 <br>
 <a href="20201212_012.jpg" data-lightbox="abc"><img src="20201212_012.jpg" alt="サンプル画像" width="200" /></a>
