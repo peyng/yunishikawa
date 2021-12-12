@@ -191,7 +191,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20211211_024.JPG" data-lightbox="abc"><img src="20211211_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_025.JPG" data-lightbox="abc"><img src="20211211_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_026.JPG" data-lightbox="abc"><img src="20211211_026.JPG" alt="サンプル画像" width="900" /></a>
+	<p>2日目の朝、ロビーに謎のキャラ出現</p>
 <a href="20211211_027.JPG" data-lightbox="abc"><img src="20211211_027.JPG" alt="サンプル画像" width="900" /></a>
+	<p>朝食は軽めのバイキング</p>
 <a href="20211211_028.JPG" data-lightbox="abc"><img src="20211211_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_029.JPG" data-lightbox="abc"><img src="20211211_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_030.JPG" data-lightbox="abc"><img src="20211211_030.JPG" alt="サンプル画像" width="900" /></a>
