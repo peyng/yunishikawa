@@ -224,6 +224,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zc4EeJhbe6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 	<p>野口さんは、岡ガレージを見学</p>
 <a href="20211211_054.JPG" data-lightbox="abc"><img src="20211211_054.JPG" alt="サンプル画像" width="900" /></a>	
+<a href="20211211_055.JPG" data-lightbox="abc"><img src="20211211_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211211_056.png" data-lightbox="abc"><img src="20211211_056.png" alt="サンプル画像" width="900" /></a>
+
 
 	
 	
