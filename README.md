@@ -162,16 +162,20 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <div>
 	<p>今年も野口さんに来ていただき氏家のすぎのやに向けて出発</p>
 <a href="20211211_001.JPG" data-lightbox="abc"><img src="20211211_001.JPG" alt="サンプル画像" width="900" /></a>
+	<p>道中、虹のお出迎え！</p>
 <a href="20211211_002.JPG" data-lightbox="abc"><img src="20211211_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_003.JPG" data-lightbox="abc"><img src="20211211_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_004.JPG" data-lightbox="abc"><img src="20211211_004.JPG" alt="サンプル画像" width="900" /></a>
+	<p>湯西川、道の駅でしばし休憩</p>
 <a href="20211211_005.JPG" data-lightbox="abc"><img src="20211211_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_006.JPG" data-lightbox="abc"><img src="20211211_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_007.JPG" data-lightbox="abc"><img src="20211211_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_008.JPG" data-lightbox="abc"><img src="20211211_008.JPG" alt="サンプル画像" width="900" /></a>
+	<p>ホテル５階からの眺め</p>
 <a href="20211211_009.JPG" data-lightbox="abc"><img src="20211211_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_010.JPG" data-lightbox="abc"><img src="20211211_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_011.JPG" data-lightbox="abc"><img src="20211211_011.JPG" alt="サンプル画像" width="900" /></a>
+	<p>温泉にも浸かったので、バイキングにGo！</p>
 <a href="20211211_012.JPG" data-lightbox="abc"><img src="20211211_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_013.JPG" data-lightbox="abc"><img src="20211211_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_014.JPG" data-lightbox="abc"><img src="20211211_014.JPG" alt="サンプル画像" width="900" /></a>
@@ -214,6 +218,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20211211_051.JPG" data-lightbox="abc"><img src="20211211_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_052.JPG" data-lightbox="abc"><img src="20211211_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_053.JPG" data-lightbox="abc"><img src="20211211_053.JPG" alt="サンプル画像" width="900" /></a>
+	<p>部屋に入ってまったり中の動画〜</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zc4EeJhbe6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+	<p>野口さんは、岡ガレージを見学</p>
 <a href="20211211_054.JPG" data-lightbox="abc"><img src="20211211_054.JPG" alt="サンプル画像" width="900" /></a>	
 
 	
