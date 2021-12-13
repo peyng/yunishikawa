@@ -228,6 +228,12 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20211211_055.JPG" data-lightbox="abc"><img src="20211211_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211211_057.png" data-lightbox="abc"><img src="20211211_057.png" alt="サンプル画像" width="900" /></a>
 <a href="20211211_058.png" data-lightbox="abc"><img src="20211211_058.png" alt="サンプル画像" width="900" /></a>
+	<p>吉村、岡FaceBookからの写真も追記します</p>
+<a href="20211211_059.JPG" data-lightbox="abc"><img src="20211211_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211211_060.JPG" data-lightbox="abc"><img src="20211211_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211211_061.JPG" data-lightbox="abc"><img src="20211211_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211211_062.JPG" data-lightbox="abc"><img src="20211211_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211211_063.JPG" data-lightbox="abc"><img src="20211211_063.JPG" alt="サンプル画像" width="900" /></a>
 	
 	
 </div>
