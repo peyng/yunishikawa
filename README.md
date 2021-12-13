@@ -154,7 +154,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
     </script>
     
         </section>-->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年12月11日(土)〜12日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -233,11 +233,11 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 </div>
 	
 	
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2020年12月12日(土)〜13日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <div>
 	<p>今年は國友宅集合でまずは氏家のすぎのやに向けて出発</p>
 <a href="20201212_001.jpg" data-lightbox="abc"><img src="20201212_001.jpg" alt="サンプル画像" width="800" /></a>
