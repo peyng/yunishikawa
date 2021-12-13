@@ -226,7 +226,8 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20211211_054.JPG" data-lightbox="abc"><img src="20211211_054.JPG" alt="サンプル画像" width="900" /></a>	
 <a href="20211211_056.png" data-lightbox="abc"><img src="20211211_056.png" alt="サンプル画像" width="900" /></a>
 <a href="20211211_055.JPG" data-lightbox="abc"><img src="20211211_055.JPG" alt="サンプル画像" width="900" /></a>
-
+<a href="20211211_057.png" data-lightbox="abc"><img src="20211211_057.png" alt="サンプル画像" width="900" /></a>
+<a href="20211211_058.png" data-lightbox="abc"><img src="20211211_058.png" alt="サンプル画像" width="900" /></a>
 	
 	
 </div>
