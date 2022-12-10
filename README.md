@@ -198,7 +198,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年12月11日(土)〜12日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <div>
 	<p>今年も野口さんに来ていただき氏家のすぎのやに向けて出発</p>
 <a href="20211211_001.JPG" data-lightbox="abc"><img src="20211211_001.JPG" alt="サンプル画像" width="900" /></a>
