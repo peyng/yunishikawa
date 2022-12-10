@@ -176,6 +176,8 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20221209_006.JPG" data-lightbox="abc"><img src="20221209_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221209_007.JPG" data-lightbox="abc"><img src="20221209_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221209_008.JPG" data-lightbox="abc"><img src="20221209_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_017.JPG" data-lightbox="abc"><img src="20221209_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_018.JPG" data-lightbox="abc"><img src="20221209_018.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>宇都宮駅東口「バンケオ」のルーツ</p>
 <a href="20221209_009.JPG" data-lightbox="abc"><img src="20221209_009.JPG" alt="サンプル画像" width="900" /></a>
