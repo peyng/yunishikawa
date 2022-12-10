@@ -156,6 +156,44 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
         </section>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月9日(金)〜10日(土)@ホテル湯西川 !!!</marquee></span></h1>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div>
+	<p>今年も野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
+
+
+<a href="20221209_001.JPG" data-lightbox="abc"><img src="20221209_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_002.JPG" data-lightbox="abc"><img src="20221209_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<p>湯西川エリアも晴天です</p>
+<a href="20221209_015.JPG" data-lightbox="abc"><img src="20221209_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_016.JPG" data-lightbox="abc"><img src="20221209_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20221209_003.JPG" data-lightbox="abc"><img src="20221209_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_004.JPG" data-lightbox="abc"><img src="20221209_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_005.JPG" data-lightbox="abc"><img src="20221209_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_006.JPG" data-lightbox="abc"><img src="20221209_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_007.JPG" data-lightbox="abc"><img src="20221209_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_008.JPG" data-lightbox="abc"><img src="20221209_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<p>宇都宮駅東口「バンケオ」のルーツ</p>
+<a href="20221209_009.JPG" data-lightbox="abc"><img src="20221209_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_010.JPG" data-lightbox="abc"><img src="20221209_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<p>龍王峡にてプチ観光</p>
+<a href="20221209_011.JPG" data-lightbox="abc"><img src="20221209_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_012.JPG" data-lightbox="abc"><img src="20221209_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_013.JPG" data-lightbox="abc"><img src="20221209_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221209_014.JPG" data-lightbox="abc"><img src="20221209_014.JPG" alt="サンプル画像" width="900" /></a>
+
+
+</div>
+	
+	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年12月11日(土)〜12日(日)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
