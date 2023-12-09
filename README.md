@@ -182,6 +182,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 	<p>帰り道、羽田、野口、吉村が道の駅で休憩していたら、岡が現れてパチリ！</p>
 <a href="20231208_017.JPG" data-lightbox="abc"><img src="20231208_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_018.JPG" data-lightbox="abc"><img src="20231208_018.JPG" alt="サンプル画像" width="900" /></a>
+	<p>日光連山は雪がありません</p>
 <a href="20231208_019.JPG" data-lightbox="abc"><img src="20231208_019.JPG" alt="サンプル画像" width="900" /></a>
 	<p>懐かしの写真集</p>
 <a href="20231208_020.JPG" data-lightbox="abc"><img src="20231208_020.JPG" alt="サンプル画像" width="900" /></a>
