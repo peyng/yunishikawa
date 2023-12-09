@@ -185,8 +185,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 	<p>日光連山は雪がありません</p>
 <a href="20231208_019.JPG" data-lightbox="abc"><img src="20231208_019.JPG" alt="サンプル画像" width="900" /></a>
 	<p>懐かしの写真集</p>
-<a href="20231208_020.JPG" data-lightbox="abc"><img src="20231208_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_020.JPG" data-lightbox="abc"><img src="20231208_020.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20231208_022.JPG" data-lightbox="abc"><img src="20231208_022.JPG" alt="サンプル画像" width="450" /></a>
 
 </div>
 
