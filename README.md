@@ -156,9 +156,15 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
         </section>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月9日(金)〜10日(土)@ホテル湯西川 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023年12月8日(金)〜9日(土)@ホテル湯西川 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div>
+	<p>今年も去年と同じく野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
+
+
+</div>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月9日(金)〜10日(土)@ホテル湯西川 !!!</marquee></span></h1>
 <div>
 	<p>今年も野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
 
