@@ -174,10 +174,12 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20231208_010.JPG" data-lightbox="abc"><img src="20231208_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_011.JPG" data-lightbox="abc"><img src="20231208_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_012.JPG" data-lightbox="abc"><img src="20231208_012.JPG" alt="サンプル画像" width="900" /></a>
+	<p>内藤さん、手術あと</p>
 <a href="20231208_013.JPG" data-lightbox="abc"><img src="20231208_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_014.JPG" data-lightbox="abc"><img src="20231208_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_015.JPG" data-lightbox="abc"><img src="20231208_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_016.JPG" data-lightbox="abc"><img src="20231208_016.JPG" alt="サンプル画像" width="900" /></a>
+	<p>帰り道、羽田、野口、吉村が道の駅で休憩していたら、岡が現れてパチリ！</p>
 <a href="20231208_017.JPG" data-lightbox="abc"><img src="20231208_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_018.JPG" data-lightbox="abc"><img src="20231208_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_019.JPG" data-lightbox="abc"><img src="20231208_019.JPG" alt="サンプル画像" width="900" /></a>
