@@ -164,6 +164,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20231208_001.JPG" data-lightbox="abc"><img src="20231208_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_002.JPG" data-lightbox="abc"><img src="20231208_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_003.JPG" data-lightbox="abc"><img src="20231208_003.JPG" alt="サンプル画像" width="900" /></a>
+	<p>石川さんは日本酒飲み放題モード</p>
 <a href="20231208_004.JPG" data-lightbox="abc"><img src="20231208_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_005.JPG" data-lightbox="abc"><img src="20231208_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_006.JPG" data-lightbox="abc"><img src="20231208_006.JPG" alt="サンプル画像" width="900" /></a>
@@ -180,6 +181,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20231208_017.JPG" data-lightbox="abc"><img src="20231208_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_018.JPG" data-lightbox="abc"><img src="20231208_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_019.JPG" data-lightbox="abc"><img src="20231208_019.JPG" alt="サンプル画像" width="900" /></a>
+	<p>懐かしの写真集</p>
 <a href="20231208_020.JPG" data-lightbox="abc"><img src="20231208_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="900" /></a>
 
