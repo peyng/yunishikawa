@@ -186,6 +186,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="900" /></a>
 
 </div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月9日(金)〜10日(土)@ホテル湯西川 !!!</marquee></span></h1>
 <div>
 	<p>今年も野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
