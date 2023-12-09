@@ -161,7 +161,27 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 	<p>今年も去年と同じく野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
-
+<a href="20231208_001.JPG" data-lightbox="abc"><img src="20231208_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_002.JPG" data-lightbox="abc"><img src="20231208_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_003.JPG" data-lightbox="abc"><img src="20231208_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_004.JPG" data-lightbox="abc"><img src="20231208_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_005.JPG" data-lightbox="abc"><img src="20231208_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_006.JPG" data-lightbox="abc"><img src="20231208_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_007.JPG" data-lightbox="abc"><img src="20231208_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_008.JPG" data-lightbox="abc"><img src="20231208_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_009.JPG" data-lightbox="abc"><img src="20231208_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_010.JPG" data-lightbox="abc"><img src="20231208_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_011.JPG" data-lightbox="abc"><img src="20231208_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_012.JPG" data-lightbox="abc"><img src="20231208_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_013.JPG" data-lightbox="abc"><img src="20231208_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_014.JPG" data-lightbox="abc"><img src="20231208_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_015.JPG" data-lightbox="abc"><img src="20231208_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_016.JPG" data-lightbox="abc"><img src="20231208_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_017.JPG" data-lightbox="abc"><img src="20231208_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_018.JPG" data-lightbox="abc"><img src="20231208_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_019.JPG" data-lightbox="abc"><img src="20231208_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_020.JPG" data-lightbox="abc"><img src="20231208_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="900" /></a>
 
 </div>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月9日(金)〜10日(土)@ホテル湯西川 !!!</marquee></span></h1>
