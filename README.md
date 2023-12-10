@@ -189,7 +189,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20231208_021.JPG" data-lightbox="abc"><img src="20231208_021.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20231208_022.JPG" data-lightbox="abc"><img src="20231208_022.JPG" alt="サンプル画像" width="450" /></a>
 <br>
-<p>岡FB →<a href="https://www.facebook.com/photo/?fbid=2084460375219733&set=pcb.2084465428552561">リンク</a></p>
+<p>岡FB →<a href="https://www.facebook.com/photo/?fbid=2084460375219733&set=pcb.2084465428552561" target="_blank">リンク</a></p>
 
 </div>
 
